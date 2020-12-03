@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Lu Xinyuan. I'm from Tianjin China. 
+I'm Lu Xinyuan(陆欣圆). I'm from Tianjin China. 
 I'm a 1st year PhD student from NUS Graduate School for Integrative Sciences and Engineering (NGS)
 
 My research topic is Natural Language Processing.   
