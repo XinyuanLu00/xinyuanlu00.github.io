@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 I'm Lu Xinyuan(陆欣圆). I'm from Tianjin China. 
-I'm a PhD student from NUS Graduate School for Integrative Sciences and Engineering (NGS) supervised by Prof Kan Min-yen.
+I'm a PhD student from NUS Graduate School for Integrative Sciences and Engineering (NGS) supervised by Prof <a href="https://www.comp.nus.edu.sg/~kanmy/">Kan Min-yen</a>. 
 
-My research topic is Natural Language Processing.   
+My research topic is Natural Language Processing, specialized in Recommendation Systems.
