@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lu Xinyuan"
+title                    : "Lu Xinyuan(陆欣圆)"
 title_separator          : "-"
-name                     : &name "Lu Xinyuan"
+name                     : &name "Lu Xinyuan(陆欣圆)"
 description              : &description "personal description"
 url                      : https://xinyuanlu00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
