@@ -11,9 +11,9 @@ title                    : "Lu Xinyuan"
 title_separator          : "-"
 name                     : &name "Lu Xinyuan"
 description              : &description "personal description"
-url                      : https://cuthalionn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xinyuanlu00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cuthalionn/cuthalionn.github.io"
+repository               : "xinyuanlu00/xinyuanlu00.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,35 +81,35 @@ analytics:
 # Site Author
 author:
   name             : "Lu Xinyuan"
-  avatar           : "profile.png"
-  bio              : "PhD candidate at National University of Singapore - School of Computing"
+  avatar           : "selfie.jpg"
+  bio              : "PhD candidate at National University of Singapore - NGS"
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=9-rgPvgAAAAJ&hl=en
-  email            : taksu@u.nus.edu
+  googlescholar    :
+  email            : luxinyuan@u.nus.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : profile.php?id=100005584489691"
+  facebook         : 
   foursquare       :
-  github           : "cuthalionn"
+  github           : "xinyuanlu00"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : ibrahim-taha-aksu-b86647114/
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : Tahaksu1
+  twitter          : 
   vine             :
   weibo            :
   xing             :
